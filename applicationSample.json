@@ -1,0 +1,7 @@
+{
+  searchUrl: "{{api url for searching venues}}",
+  recentVenuePhotoUrl: "{{api url for search photos}}",
+  venueSearchUrl: "{{api url for search venue}}",
+  requestHeader: "{{request header for api}}",
+  accessToken: "{{access token for api}}",
+}

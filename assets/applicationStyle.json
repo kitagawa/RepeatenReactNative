@@ -1,0 +1,16 @@
+{
+  fontSize: 14,
+  fontSizeLarge: 16,
+  fontSizeSmall: 12,
+  themeColor: "#f4433d",
+  themeSubColor: "#f5625b",
+  linkColor: "#f4433d",
+  textColor: "#555",
+  textMutedColor: "#888888",
+  titleTextColor: "white",
+  backgroundColor: "#ddd",
+  borderColor: "#ddd",
+  underlayColor: "#ccc",
+  cardBackgroundColor: "white",
+  imageThumbnailHeight: 150,
+}
