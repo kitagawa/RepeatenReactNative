@@ -1,3 +1,4 @@
+/*set parameter and rename this file to application.json*/
 {
   searchUrl: "{{api url for searching venues}}",
   recentVenuePhotoUrl: "{{api url for search photos}}",
